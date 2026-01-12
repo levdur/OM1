@@ -159,3 +159,7 @@ Please make sure to read the [Contributing Guide](./CONTRIBUTING.md) before maki
 ## License
 
 This project is licensed under the terms of the MIT License, which is a permissive free software license that allows users to freely use, modify, and distribute the software. The MIT License is a widely used and well-established license that is known for its simplicity and flexibility. By using the MIT License, this project aims to encourage collaboration, modification, and distribution of the software.
+Improved the documentation by adding clear instructions for obtaining, setting,
+and using the OpenMind API key required by OM1. This helps new contributors
+quickly get started with configuring their environment and avoids common
+authentication errors.
